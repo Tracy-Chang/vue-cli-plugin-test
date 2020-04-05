@@ -1,0 +1,21 @@
+{
+  "name": "@tracy-chang/vue-cli-plugin-test",
+  "version": "0.1.4",
+  "description": "vue-cli-plugin-test",
+  "main": "prompts.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Tracy-Chang/vue-cli-plugin-test.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "plugin"
+  ],
+  "author": "tracy-chang",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "lodash.lowerfirst": "^4.3.1"
+  }
+}
